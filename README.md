@@ -1,2 +1,2 @@
-# Encription-Decription-message-
-This Python repository implements encryption and decryption functionalities for secure messaging. It utilizes cryptographic algorithms to safeguard communication privacy. Ideal for securing sensitive information in messaging applications.
+# Python Cryptography GUI
+"Python Cryptography GUI: A user-friendly interface for cryptographic operations, including encryption, decryption, hashing, and key generation. Streamlined for ease of use and understanding. Enhance your security effortlessly."
